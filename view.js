@@ -1,4 +1,3 @@
-// view.js
 class TaskView {
     constructor() {
       this.app = this.getElement('#root');
