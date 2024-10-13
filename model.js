@@ -1,4 +1,3 @@
-// model.js
 class Task {
     constructor(id, name, description, createdAt = new Date(), completed = false) {
       this.id = id;
