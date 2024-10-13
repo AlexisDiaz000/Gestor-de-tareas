@@ -1,4 +1,3 @@
-// controller.js
 class TaskController {
     constructor(model, view) {
       this.model = model;
